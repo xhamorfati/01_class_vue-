@@ -1,0 +1,1 @@
+(()=>{var r={466:()=>{moudule.exports={priceFormat:function(){return"$99"}}}},o={};function t(e){var n=o[e];if(void 0!==n)return n.exports;var s=o[e]={exports:{}};return r[e](s,s.exports,t),s.exports}(()=>{"use strict";const{priceFormat:r}=t(466);console.log(50),console.log(r())})()})();
